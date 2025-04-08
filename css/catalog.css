@@ -1,0 +1,75 @@
+@import url("./styles.css");
+
+#cartalog-section 
+{
+    padding: 20px 0;
+}
+
+.dsc-catalog-cards 
+{
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+}
+
+.dsc-catalog-card-top 
+{
+    padding: 0 36px;
+}
+
+.dsc-catalog-card-top img 
+{
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+.dsc-catalog-card-bottom 
+{
+    padding: 10px 20px;
+    min-height: 110px;
+}
+
+.dsc-catalog-card-bottom h3 
+{
+    color: var(--dsc-color-font-secondary); 
+    font-size: 20px;
+}
+
+.dsc-catalog-card-bottom h4 
+{
+    color: var(--dsc-color-font-secondary); 
+    font-size: 12px;
+}
+
+form 
+{
+    margin-top: 20px;
+    display: flex;
+}
+
+form button 
+{
+    background-color: var(--dsc-color-btn-inverse);;
+}
+
+form input 
+{
+    width: 220px;
+    justify-content: center;
+    margin: 0 2px;
+    padding-left: 10px;
+}
+
+button img 
+{
+    width: 20px;
+    height: 20px;
+}
+
+.dsc-btn-next-page 
+{
+    margin-bottom: 20px;
+}
+
+
