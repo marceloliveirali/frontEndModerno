@@ -1,0 +1,26 @@
+# Projeto Front-end com React
+
+## Ficha técnica do treinamento:
+
+### Objetivo:
+
+Seja um desenvolvedor front end profissional com ReactJS. Aprenda a criar aplicações web profissionais com boas práticas, usando as tecnologias mais demandadas do mercado.
+
+### Pré-requisitos:
+
+* Conhecimento básico de HTML, CSS, JavaScript e Git
+
+### O que você vai aprender no treinamento: 
+
+* Layout HTML e CSS
+* Componentes React
+* Props, Rotas
+* Hooks useState, useEffect, requisições
+* Local storage e lógica de carrinho de compras
+* Eventos e estado global
+* Login e controle de acesso
+* Formulários, CRUD completo
+* Implantação, CI/CD em plataforma
+
+
+
